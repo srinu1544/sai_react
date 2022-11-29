@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div >
-    <h1>sree sai</h1>
+    <h1>om sree sai ram</h1>
     </div>
   );
 }
