@@ -9,7 +9,7 @@ const submitHandler = e => {
   console.log(data.current.value);
 }
 
-useEffect(()=>{
+useEffect(()=> {
   data.current.focus()
 },[])
 

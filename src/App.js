@@ -1,12 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import ContextApiExample from './components/contextApiExample/ContextApiExample'
 
 function App() {
   return (
-    <div >
-    <h1>om sree sai ram</h1>
+    <div>
+      <center>
+      <ContextApiExample></ContextApiExample>
+      </center>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
