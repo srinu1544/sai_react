@@ -1,11 +1,11 @@
 import React from 'react'
-import ContextApiExample from './components/contextApiExample/ContextApiExample'
+import HigherOrderComponent from './components/higher-order-componet/Higher-order-component'
 
 function App() {
   return (
     <div>
       <center>
-      <ContextApiExample></ContextApiExample>
+        <HigherOrderComponent></HigherOrderComponent>
       </center>
     </div>
   )
