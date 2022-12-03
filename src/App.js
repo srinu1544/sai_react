@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import UseRef from './components/UseRef';
 
 function App() {
   return (
     <div >
-    <h1>om sree sai ram</h1>
+   <UseRef></UseRef>
     </div>
   );
 }
