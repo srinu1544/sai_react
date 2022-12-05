@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import UseMomo from './components/useMomo/UseMomo';
 
 function App() {
   return (
     <div >
-    <h1>om sree sai ram</h1>
+     
+     <UseMomo></UseMomo>
     </div>
   );
 }
